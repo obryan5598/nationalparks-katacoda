@@ -70,7 +70,7 @@
 {         "countryCode": "GR",          "countryName":  "Greece", "coordinates": [ 39.89525,  21.08311],          "name": "Pindus National Park",          "toponymName": "Pindus National Park"}
 {         "countryCode": "MG",          "countryName":  "Madagascar", "coordinates": [ -17.61237,  48.77947],          "name": "Zahamena National Park",          "toponymName": "Zahamena National Park"}
 {         "countryCode": "CR",          "countryName":  "Costa Rica", "coordinates": [ 10.83,  -85.32388],          "name": "Guanacaste National Park",       "toponymName": "Guanacaste National Park"}
-{                 "countryCode":"",             "countryName": "", "coordinates": [ 41.6,  6.25],               "name": "Saadani National Park",          "toponymName": "Saadani National Park"}
+{         "countryCode": "BR",          "countryName":  "Brasil", "coordinates": [ 41.6,  6.25],               "name": "Saadani National Park",          "toponymName": "Saadani National Park"}
 {         "countryCode": "NG",          "countryName":  "Nigeria", "coordinates": [ 9.75443,  10.51032],          "name": "Yankari National Park",          "toponymName": "Yankari National Park"}
 {         "countryCode": "LT",          "countryName":  "Lithuania", "coordinates": [ 56.044,  21.889],          "name": "Zemaitija National Park",          "toponymName": "Zemaitija National Park"}
 {         "countryCode": "GE",          "countryName":  "Georgia", "coordinates": [ 41.69689,  41.88417],          "name": "Mtirala National Park",          "toponymName": "Mtirala National Park"}
